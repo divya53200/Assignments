@@ -1,0 +1,39 @@
+.a h2{
+    text-align: center;
+    text-decoration: underline dodgerblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.b{
+    border:2px black sloid;
+    border-radius: 6px;
+    margin-top:50px;
+    margin-bottom:50px ;
+    margin-left:400px ;
+    margin-right:500px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: white;
+    color:grey;
+}
+.c{
+    display:flex;
+    justify-content: space-around;
+}
+.c h4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.c h6{
+    border:2px rgba(139,220,231,0.657) sloid;
+    border-radius: 5px;
+    background-color: lightblue;
+    margin-top:3px;
+    padding:3px;
+    margin-right:5px;
+    color: blue;
+}
+.c p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.b img{
+    max-width:100%;
+    border-radius:6px;
+}
